@@ -1,5 +1,7 @@
-
+#include <stdlib.h>
+#include <conio.h>
 #include <stdio.h>
+
 int n;
 
 int main()
